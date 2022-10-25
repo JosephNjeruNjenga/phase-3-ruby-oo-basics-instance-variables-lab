@@ -7,8 +7,3 @@ class Dog
         @this_dogs_name
     end
 end
-binding.pry
-# lassie = Dog.new
-# lassie.name = "Lassie"
-
-# puts lassie.name
